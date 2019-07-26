@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/Helloworld.csproj": {}
+  },
+  "projects": {
+    "/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/Helloworld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/Helloworld.csproj",
+        "projectName": "Helloworld",
+        "projectPath": "/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/Helloworld.csproj",
+        "packagesPath": "/Users/juliancarachure/.nuget/packages/",
+        "outputPath": "/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/juliancarachure/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

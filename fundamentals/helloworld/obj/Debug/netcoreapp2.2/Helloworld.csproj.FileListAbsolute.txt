@@ -1,0 +1,11 @@
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/bin/Debug/netcoreapp2.2/Helloworld.deps.json
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/bin/Debug/netcoreapp2.2/Helloworld.runtimeconfig.json
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/bin/Debug/netcoreapp2.2/Helloworld.runtimeconfig.dev.json
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/bin/Debug/netcoreapp2.2/Helloworld.dll
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/bin/Debug/netcoreapp2.2/Helloworld.pdb
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/obj/Debug/netcoreapp2.2/Helloworld.csprojAssemblyReference.cache
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/obj/Debug/netcoreapp2.2/Helloworld.csproj.CoreCompileInputs.cache
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/obj/Debug/netcoreapp2.2/Helloworld.AssemblyInfoInputs.cache
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/obj/Debug/netcoreapp2.2/Helloworld.AssemblyInfo.cs
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/obj/Debug/netcoreapp2.2/Helloworld.dll
+/Users/juliancarachure/Development/CSharp/Introduction/Basics/Helloworld/obj/Debug/netcoreapp2.2/Helloworld.pdb
