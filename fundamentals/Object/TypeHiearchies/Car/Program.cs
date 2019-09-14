@@ -19,7 +19,7 @@ namespace MyApp
 				Is(obj);
 				As(obj);
 				Cast(obj);
-				Console.WriteLine("- - - - - -");
+				Console.WriteLine("- - - - - - - - - - - - - - - - - -");
 			}
 			
 		}
