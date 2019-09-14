@@ -1,5 +1,7 @@
 # Executable #
 *.exe
 *.vscode
-# Misc #
-*.DS_Store
+# OS generated files #
+.DS_Store
+.DS_Store?
+.Trashes
