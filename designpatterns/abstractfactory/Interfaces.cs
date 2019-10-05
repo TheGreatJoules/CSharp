@@ -2,6 +2,7 @@ using System;
 
 namespace Interfaces
 {
+    // Abstract Factory
     public abstract class ICreditUnionFactory
     {
         public abstract ISavingsAccount CreateSavingsAccount();
